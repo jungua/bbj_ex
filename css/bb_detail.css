@@ -179,8 +179,8 @@
 .rc_container .card_content{height:73px; padding:8px 10px 4px 98px;}
 .rc_container .card_photo{width:90px; height:73px;}
 /*상세페이지 내 스크랩버튼*/
-.scrape{display:inline-block; width:22px; height:17px; overflow:hidden; white-space:nowrap; background:url(../img/ico_scrap.png) no-repeat right 1px; background-size:17px 16px;}
-.scrape_active{background:url(../img/ico_scrap_active.png) no-repeat right 1px; background-size:17px 16px;}
+.yscrape{display:inline-block; width:22px; height:17px; overflow:hidden; white-space:nowrap; background:url(../img/ico_scrap.png) no-repeat right 1px; background-size:17px 16px; cursor:pointer;}
+.yscrape_active{background:url(../img/ico_scrap_active.png) no-repeat right 1px; background-size:17px 16px;}
 
 /* 등록자정보 */
 /*20170725 로그인전 매물등록자 연락처가림 추가*/
