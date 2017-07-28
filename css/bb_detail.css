@@ -175,7 +175,7 @@
 
 /*내놓기 상세페이지 하단배너 추가*/
 #container .rc_container{position:relative; top:0; left:0; right:0; width:100%; height:auto;}
-.rc_title{width:100%; height:38px; line-height:40px; padding:0 7px; font-size:14px; font-weight:400; color:#fff; background-color:#50505f; border-bottom:1px solid #cad1d4; box-sizing:border-box;}
+.rc_title{width:100%; height:38px; line-height:39px; padding:0 7px; font-size:14px; font-weight:400; color:#fff; background-color:#50505f; border-bottom:1px solid #cad1d4; box-sizing:border-box;}
 .rc_container .card_content{height:73px; padding:8px 10px 4px 98px;}
 .rc_container .card_photo{width:90px; height:73px;}
 /*상세페이지 내 스크랩버튼*/
